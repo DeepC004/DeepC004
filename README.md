@@ -1,8 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deep </h1>
 
+<div align="center">
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="100%" style="position:absolute" frameBorder="0" align="center"class="giphy-embed"/>
+</div>
+</div>
+  
 ## 👨‍💻 About me
 
 -   👨‍🎓 I'm a Computer Science sophomore at BITS Pilani
