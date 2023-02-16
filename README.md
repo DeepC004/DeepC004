@@ -8,9 +8,9 @@
   
 ## 👨‍💻 About me
 
--   👨‍🎓 I'm a Computer Science sophomore at BITS Pilani
+-   👨‍🎓 I'm a Computer Science junior at BITS Pilani
 -   🌱 Currently learning React and Flask
--   📧 Contact me at deepchordia10@gmail.com
+-   📧 Contact me at deepkodes@gmail.com
 
 ## 🚀 Tech Stack
 
