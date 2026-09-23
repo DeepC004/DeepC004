@@ -1,17 +1,47 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deep </h1>
 
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="100%" style="position:absolute" frameBorder="0" align="center"class="giphy-embed"/>
-</div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </div>
   
 ## 👨‍💻 About me
 
--   👨‍🎓 I'm a Computer Science junior at BITS Pilani
--   🌱 Currently learning React and Flask
--   📧 Contact me at deepkodes@gmail.com
+- ⚙️ **Systems Software Engineer** at BlackBerry, specializing in the intersection of ML inference and real-time operating systems.
+- 🎓 CS Graduate from BITS Pilani & Amazon ML Summer School ('22) Scholar.
+- 🎯 **Current Focus:** Adapting, porting, and optimizing ML runtimes (OpenVINO, ONNX Runtime) to run efficiently on complex edge architectures (x86_64, AArch64) with strict memory and latency constraints.
+- 📧 Contact me at deepkodes@gmail.com
 
-## 🚀 Tech Stack
+## 🚀 Areas of Expertise
 
-<a href="https://www.python.org/"> ![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)</a> <a href="https://www.w3schools.com/cpp/"> ![alt text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> <a href="https://www.java.com/en/"> ![alt text](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a> <a href="https://start.spring.io/"> ![alt text](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)</a> <a href="https://git-scm.com/"> ![alt text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)</a> <a href="https://www.postman.com/"> ![alt text](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)</a> <a href="https://reactjs.org/"> ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a> <a href="https://www.figma.com/"> ![alt text](https://img.shields.io/badge/Figma-0054F7?style=for-the-badge&logo=figma&logoColor=white)</a>
+- ⚡ **High-Performance ML Inference:** Porting and optimizing ML frameworks (OpenVINO, ONNX) for high-speed deployment on specialized edge hardware and constrained architectures.
+- 🛠️ **Core Systems Engineering:** OS-level programming in C++, managing concurrency, shared memory, IPC, and hardware abstraction layers (HAL) for real-time systems.
+- 🔧 **Cross-Platform Infrastructure:** Building robust build systems (CMake), CI automation, and validation infrastructure across multiple architectures.
+
+## 💻 Systems & ML Tech Stack
+
+<div align="left">
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" />
+  </a>
+  <a href="https://www.kernel.org/">
+    <img src="https://img.shields.io/badge/Linux_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+  <a href="https://onnxruntime.ai/">
+    <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  </a>
+  <a href="https://docs.openvino.ai/">
+    <img src="https://img.shields.io/badge/OpenVINO-0068B5?style=for-the-badge&logo=intel&logoColor=white" alt="OpenVINO" />
+  </a>
+  <a href="https://cmake.org/">
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+</div>
